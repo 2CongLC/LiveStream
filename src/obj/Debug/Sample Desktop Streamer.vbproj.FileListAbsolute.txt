@@ -1,0 +1,11 @@
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample Desktop Streamer\bin\Debug\Sample Desktop Streamer.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample Desktop Streamer\bin\Debug\Sample Desktop Streamer.exe
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample Desktop Streamer\bin\Debug\Sample Desktop Streamer.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample Desktop Streamer\bin\Debug\Sample Desktop Streamer.xml
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample Desktop Streamer\obj\Debug\Sample Desktop Streamer.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample Desktop Streamer\obj\Debug\Sample_Desktop_Streamer.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample Desktop Streamer\obj\Debug\Sample_Desktop_Streamer.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample Desktop Streamer\obj\Debug\Sample Desktop Streamer.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample Desktop Streamer\obj\Debug\Sample Desktop Streamer.exe
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample Desktop Streamer\obj\Debug\Sample Desktop Streamer.xml
+E:\MÃ NGUỒN LẬP TRÌNH\VÍ DỤ\SAMPLE\Sample Desktop Streamer\obj\Debug\Sample Desktop Streamer.pdb

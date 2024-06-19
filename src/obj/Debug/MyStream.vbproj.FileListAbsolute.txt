@@ -1,0 +1,23 @@
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\bin\Debug\MyStream.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\bin\Debug\MyStream.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\bin\Debug\MyStream.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\bin\Debug\MyStream.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\MyStream.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\ChuCong.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\MyStream.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\MyStream.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\MyStream.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\MyStream.pdb
+D:\Source VBNet_C#\GitHub\LiveStream\src\bin\Debug\MyStream.exe.config
+D:\Source VBNet_C#\GitHub\LiveStream\src\bin\Debug\MyStream.exe
+D:\Source VBNet_C#\GitHub\LiveStream\src\bin\Debug\MyStream.pdb
+D:\Source VBNet_C#\GitHub\LiveStream\src\bin\Debug\MyStream.xml
+D:\Source VBNet_C#\GitHub\LiveStream\src\obj\Debug\MyStream.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\LiveStream\src\obj\Debug\ChuCong.Form1.resources
+D:\Source VBNet_C#\GitHub\LiveStream\src\obj\Debug\ChuCong.Resources.resources
+D:\Source VBNet_C#\GitHub\LiveStream\src\obj\Debug\MyStream.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\GitHub\LiveStream\src\obj\Debug\MyStream.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\LiveStream\src\obj\Debug\MyStream.exe
+D:\Source VBNet_C#\GitHub\LiveStream\src\obj\Debug\MyStream.xml
+D:\Source VBNet_C#\GitHub\LiveStream\src\obj\Debug\MyStream.pdb
